@@ -1,0 +1,2 @@
+# alapalgoritmusok
+alapalgoritmusok, ciklusok, függvények
